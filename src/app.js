@@ -129,3 +129,11 @@ app.get('*',(req,res) => {
 app.listen(port,() => {
     console.log('Server is up on port ' + port);
 })
+
+
+
+
+
+
+//for push in heroku
+//git push heroku master

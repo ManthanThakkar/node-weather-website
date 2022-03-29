@@ -43,8 +43,8 @@ weatherForm.addEventListener('submit',(e) => {
 })
 
 
-const printName = () => {
-    const txtbox=document.getElementById('name').value;
-    const label = document.getElementById('lbl').innerHTML = txtbox
-}
+// const printName = () => {
+//     const txtbox=document.getElementById('name').value;
+//     const label = document.getElementById('lbl').innerHTML = txtbox
+// }
 
